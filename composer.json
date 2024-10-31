@@ -1,0 +1,14 @@
+{
+    "name": "pressx/performance-kit",
+    "description": "Composer for Performance Kit",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "wp-coding-standards/wpcs": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "PressX Co.",
+            "email": "info@pressx.co"
+        }
+    ]
+}
